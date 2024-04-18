@@ -6,10 +6,10 @@ This ToDoList app allows users to manage a list of tasks. Users can add new task
 
 Features
 
-Add Task: Users can add new tasks to the list.
-Remove Task: Tasks can be removed from the list.
-Set Deadlines: Users can set deadlines for tasks using a time picker dialog.
-Task Count: The app displays the total number of tasks in the list.
+1.Add Task: Users can add new tasks to the list.
+2.Remove Task: Tasks can be removed from the list.
+3.Set Deadlines: Users can set deadlines for tasks using a time picker dialog.
+4.Task Count: The app displays the total number of tasks in the list.
 Development Environment
 
 Development Tools: This app is developed using Android Studio with Kotlin.
@@ -18,10 +18,14 @@ Getting Started
 
 To run the app:
 
-Clone or download the source code.
-Open the project in Android Studio.
-Connect an Android device or use an emulator.
-Build and run the app from Android Studio.
+1.Clone or download the source code.
+
+2.Open the project in Android Studio.
+
+3.Connect an Android device or use an emulator.
+
+4.Build and run the app from Android Studio.
+
 Code Structure
 
 MainActivity.kt: Main activity class responsible for setting up the UI and handling user interactions.
