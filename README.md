@@ -34,12 +34,12 @@ TaskItemAdapter.kt: RecyclerView adapter to display the list of tasks.
 task_item_cell.xml: Layout file for individual task items displayed in the RecyclerView.
 Screenshots
 
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
-![image]()
+![image](https://github.com/GaryFeng86/EEP523HW1/blob/master/1.png)
+![image](https://github.com/GaryFeng86/EEP523HW1/blob/master/2.png)
+![image](https://github.com/GaryFeng86/EEP523HW1/blob/master/3.png)
+![image](https://github.com/GaryFeng86/EEP523HW1/blob/master/4.png)
+![image](https://github.com/GaryFeng86/EEP523HW1/blob/master/5.png)
+![image](https://github.com/GaryFeng86/EEP523HW1/blob/master/6.png)
 Video Demonstration
 
 Watch a demo of the app on Google Drive：https://drive.google.com/file/d/14kGXWqGV0P6K36tqLXo5YCoHdwi9eKqv/view
