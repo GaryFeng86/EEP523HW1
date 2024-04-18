@@ -33,4 +33,15 @@ class TaskViewModel:ViewModel() {
         }
         taskItems.postValue(list)
     }
+    fun setDeleted(taskId: UUID) {
+        val list = taskItems.value ?: return
+        val iterator = list.iterator()
+        while (iterator.hasNext()) {
+            val task = iterator.next()
+            if (task.id == taskId) {
+                iterator.remove() //
+            }
+        }
+        taskItems.postValue(list) //
+    }
 }

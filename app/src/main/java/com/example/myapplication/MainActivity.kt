@@ -42,4 +42,5 @@ class MainActivity : AppCompatActivity(), TaskItemClickListtener {
     override fun completeTaskItem(taskItem: TaskItem) {
     taskViewModel.setCompleted(taskItem)
     }
+
 }
