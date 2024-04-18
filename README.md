@@ -30,11 +30,11 @@ TaskItemAdapter.kt: RecyclerView adapter to display the list of tasks.
 task_item_cell.xml: Layout file for individual task items displayed in the RecyclerView.
 Screenshots
 
-Insert screenshots of your app here.
+
 
 Video Demonstration
 
-Watch a demo of the app on Google Drive.
+Watch a demo of the app on Google Drive：https://drive.google.com/file/d/14kGXWqGV0P6K36tqLXo5YCoHdwi9eKqv/view
 
 Development Details
 
